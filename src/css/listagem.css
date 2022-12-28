@@ -18,7 +18,7 @@
     transition: 0.15s ease-in-out;
 }
 
-.listagem .pokemon:hover{
+.listagem .pokemon:hover {
     transform: scale(1.05);
 }
 
@@ -31,6 +31,6 @@
     padding-right: 20px;
 }
 
-.listagem .pokemon.ativo{
+.listagem .pokemon.ativo {
     background-color: #fa6668;
 }
